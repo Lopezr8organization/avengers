@@ -1,5 +1,5 @@
 # Villanos
 
 * Dr. Doom
-* Red Skull¨
-* Dr. Herrera
+* Red Skull
+* Capitan América
